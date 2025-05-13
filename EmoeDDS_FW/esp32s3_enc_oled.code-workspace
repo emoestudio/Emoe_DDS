@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../esp32s3_enc_oled"
+		},
+		{
+			"name": "EmoeDDS_FW",
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"arduino.h": "c"
+		}
+	}
+}
