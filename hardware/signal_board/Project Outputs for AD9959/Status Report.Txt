@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [AD9959.PrjPcb]
+   Generated File[AD9959.TXT]
+   Generated File[AD9959.LDP]
+   Generated File[AD9959.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 9:29:01 PM On 13/05/2025

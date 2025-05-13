@@ -1,0 +1,151 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BoasToolsConfig>
+  <ViewModels>
+    <BalanceViewModel>
+      <param name="Unit" value="mm" />
+      <param name="Copbalcrop" value="false" />
+      <param name="Filltype" value="Rhombus" />
+      <param name="Copbaldistance" value="1.500mm" />
+      <param name="Copbalwidth" value="1.500mm" />
+    </BalanceViewModel>
+    <IBomViewModel>
+      <param name="ParameterCheckboxes" value="System.ComponentModel.BindingList`1[BoasTools.Helpers.CheckboxData]">
+        <checkbox parameter="[Comment]" checked="True" visible="True" />
+        <checkbox parameter="[Description]" checked="True" visible="True" />
+        <checkbox parameter="[DesignItemID]" checked="False" visible="False" />
+        <checkbox parameter="[Footprint]" checked="True" visible="True" />
+        <checkbox parameter="Arrow Part Number" checked="False" visible="False" />
+        <checkbox parameter="Arrow Price/Stock" checked="False" visible="False" />
+        <checkbox parameter="Availability" checked="False" visible="False" />
+        <checkbox parameter="BOM名称" checked="False" visible="False" />
+        <checkbox parameter="Check_prices" checked="False" visible="False" />
+        <checkbox parameter="Code_JEDEC" checked="False" visible="False" />
+        <checkbox parameter="Compliance Range (V)" checked="False" visible="False" />
+        <checkbox parameter="ComponentLink1Description" checked="False" visible="False" />
+        <checkbox parameter="ComponentLink1URL" checked="False" visible="False" />
+        <checkbox parameter="ComponentLink2Description" checked="False" visible="False" />
+        <checkbox parameter="ComponentLink2URL" checked="False" visible="False" />
+        <checkbox parameter="ComponentLink3Description" checked="False" visible="False" />
+        <checkbox parameter="ComponentLink3URL" checked="False" visible="False" />
+        <checkbox parameter="Copyright" checked="False" visible="False" />
+        <checkbox parameter="Datasheet Link" checked="False" visible="False" />
+        <checkbox parameter="DatasheetVersion" checked="False" visible="False" />
+        <checkbox parameter="FS Iout (mA nom)" checked="False" visible="False" />
+        <checkbox parameter="Height" checked="False" visible="False" />
+        <checkbox parameter="I Supply total (max)" checked="False" visible="False" />
+        <checkbox parameter="I/O Interface" checked="False" visible="False" />
+        <checkbox parameter="LatestRevisionDate" checked="False" visible="False" />
+        <checkbox parameter="LatestRevisionNote" checked="False" visible="False" />
+        <checkbox parameter="Lead Free" checked="False" visible="False" />
+        <checkbox parameter="Manufacturer_Name" checked="False" visible="False" />
+        <checkbox parameter="Manufacturer_Part_Number" checked="False" visible="False" />
+        <checkbox parameter="Master fclk" checked="False" visible="False" />
+        <checkbox parameter="Max Input Voltage" checked="False" visible="False" />
+        <checkbox parameter="Max Operating Temperature" checked="False" visible="False" />
+        <checkbox parameter="Max Output Voltage" checked="False" visible="False" />
+        <checkbox parameter="MF" checked="False" visible="False" />
+        <checkbox parameter="Mfr_Name" checked="False" visible="False" />
+        <checkbox parameter="Min Input Voltage" checked="False" visible="False" />
+        <checkbox parameter="Min Operating Temperature" checked="False" visible="False" />
+        <checkbox parameter="Min Output Voltage" checked="False" visible="False" />
+        <checkbox parameter="Mount" checked="False" visible="False" />
+        <checkbox parameter="Mouser Part Number" checked="False" visible="False" />
+        <checkbox parameter="Mouser Price/Stock" checked="False" visible="False" />
+        <checkbox parameter="MP" checked="False" visible="False" />
+        <checkbox parameter="Output Current" checked="False" visible="False" />
+        <checkbox parameter="Output Type" checked="False" visible="False" />
+        <checkbox parameter="Package" checked="False" visible="False" />
+        <checkbox parameter="PackageDescription" checked="False" visible="False" />
+        <checkbox parameter="PackageReference" checked="False" visible="False" />
+        <checkbox parameter="PackageVersion" checked="False" visible="False" />
+        <checkbox parameter="Packaging" checked="False" visible="False" />
+        <checkbox parameter="Price" checked="False" visible="False" />
+        <checkbox parameter="Published" checked="False" visible="False" />
+        <checkbox parameter="Publisher" checked="False" visible="False" />
+        <checkbox parameter="Purchase-URL" checked="False" visible="False" />
+        <checkbox parameter="Quiescent Current" checked="False" visible="False" />
+        <checkbox parameter="REFCLK Multiplier" checked="False" visible="False" />
+        <checkbox parameter="RefDes" checked="False" visible="False" />
+        <checkbox parameter="Resolution (Bits)" checked="False" visible="False" />
+        <checkbox parameter="Revision" checked="False" visible="False" />
+        <checkbox parameter="RoHS Compliant" checked="False" visible="False" />
+        <checkbox parameter="SnapEDA_Link" checked="False" visible="False" />
+        <checkbox parameter="Switching Frequency" checked="False" visible="False" />
+        <checkbox parameter="Synchronous Rectifier" checked="False" visible="False" />
+        <checkbox parameter="Topology" checked="False" visible="False" />
+        <checkbox parameter="Tuning Word Width (bits)" checked="False" visible="False" />
+        <checkbox parameter="Type" checked="False" visible="False" />
+        <checkbox parameter="下单链接" checked="False" visible="False" />
+        <checkbox parameter="淘宝ID" checked="False" visible="False" />
+      </param>
+      <param name="ID_Components" value="System.Collections.Generic.Dictionary`2[System.String,PCB.IPCB_Component]" />
+      <param name="Title" value="AD9959" />
+      <param name="Company" value="EmoeDevs" />
+      <param name="Revision" value="Rev: v1" />
+      <param name="ShowValue" value="true" />
+      <param name="IBomExpanded" value="false" />
+      <param name="ShowFootprint" value="false" />
+      <param name="DarkMode" value="false" />
+      <param name="HighlightFirstPin" value="false" />
+      <param name="AddFirstPin" value="true" />
+      <param name="FabLayer" value="false" />
+      <param name="Nets" value="true" />
+      <param name="LayerView" value="FB" />
+      <param name="SelectByClick" value="true" />
+      <param name="ShowTexts" value="true" />
+      <param name="AddToProject" value="true" />
+      <param name="GroupDes" value="false" />
+      <param name="Selectedvalue" value="Value" />
+      <param name="CustomFabrication" value="false" />
+      <param name="FabricationColor" value="#FFBF5BBF" />
+      <param name="CustomSilkscreen" value="false" />
+      <param name="SilkscreenColor" value="#FFAAAA44" />
+      <param name="CustomNet" value="false" />
+      <param name="NetColor" value="#FFDEF5F1" />
+      <param name="CustomHighlight" value="false" />
+      <param name="HightlightColor" value="#FF00FF00" />
+      <param name="CustompadHighlight" value="false" />
+      <param name="PadHightlightColor" value="#FF00FF00" />
+      <param name="CustompinHighlight" value="false" />
+      <param name="PinHightlightColor" value="#FFFFB629" />
+    </IBomViewModel>
+    <TrimViewModel>
+      <param name="Unit" value="mm" />
+      <param name="TrimNeck" value="false" />
+      <param name="TrimHoleSize" value="true" />
+      <param name="TrimExpansion" value="0.150mm" />
+      <param name="NeckWidth" value="0.200mm" />
+      <param name="MinHoleSize" value="0.200mm" />
+    </TrimViewModel>
+    <QtViewModel>
+      <param name="CodeType" value="QR" />
+      <param name="Size" value="10.000mm" />
+      <param name="Layer" value="TopOverlay" />
+      <param name="Invert" value="true" />
+      <param name="Unit" value="mm" />
+    </QtViewModel>
+    <PuncherViewModel>
+      <param name="Unit" value="mm" />
+      <param name="Punchdistance" value="1.500mm" />
+      <param name="Punchoffset" value="1.500mm" />
+    </PuncherViewModel>
+    <PreviewViewModel>
+      <param name="Parent" value="BoasTools.ViewModel.PanelViewModel" />
+      <param name="Unit" value="mm" />
+      <param name="Picture_Width" value="100.000mm" />
+      <param name="Picture_Height" value="0.000mm" />
+      <param name="Picture_Transparency" value="50%" />
+      <param name="Picture_DPI" value="1" />
+    </PreviewViewModel>
+  </ViewModels>
+  <Parameters>
+    <param name="Unitstxt" value="MMs" />
+    <param name="IBomExpanded" value="true" />
+    <param name="TrimExpanded" value="false" />
+    <param name="BalanceExpanded" value="false" />
+    <param name="QrExpanded" value="false" />
+    <param name="PreviewExpanded" value="false" />
+    <param name="PuncherExpanded" value="false" />
+    <param name="Visible" value="true" />
+  </Parameters>
+</BoasToolsConfig>
