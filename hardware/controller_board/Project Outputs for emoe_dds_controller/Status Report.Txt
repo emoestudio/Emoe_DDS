@@ -1,25 +1,13 @@
-Output: Gerber Files
-Type  : Gerber
-From  : Variant [[No Variations]] of Project [emoe_dds_controller.PrjPcb]
-   Generated File[DDS_controller.GTO]
-   Generated File[DDS_controller.GTP]
-   Generated File[DDS_controller.GTS]
-   Generated File[DDS_controller.GTL]
-   Generated File[DDS_controller.GBL]
-   Generated File[DDS_controller.GBS]
-   Generated File[DDS_controller.GBP]
-   Generated File[DDS_controller.GBO]
-   Generated File[DDS_controller.GKO]
-   Generated File[DDS_controller.GPT]
-   Generated File[DDS_controller.GPB]
-   Generated File[DDS_controller.GD1]
-   Generated File[DDS_controller.GG1]
-   Generated File[DDS_controller.GM]
-   Generated File[DDS_controller.EXTREP]
-   Generated File[DDS_controller.REP]
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [emoe_dds_controller.PrjPcb]
+   Generated File[DDS_controller-RoundHoles.TXT]
+   Generated File[DDS_controller-SlotHoles.TXT]
+   Generated File[DDS_controller.LDP]
+   Generated File[DDS_controller.DRR]
 
 
-Files Generated   : 16
+Files Generated   : 4
 Documents Printed : 0
 
-Finished Output Generation At 9:31:30 PM On 13/05/2025
+Finished Output Generation At 9:37:29 PM On 13/05/2025
